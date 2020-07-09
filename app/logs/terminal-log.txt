@@ -1,0 +1,42 @@
+//--- FileSaver
+filename: semantic_versioning.pdf
+Content-Type: application/pdf
+
+
+
+//--- AncoreDownloadAttribute
+filename: semantic_versioning.pdf
+Content-Type: application/pdf
+
+
+
+//--- AncoreDownloadAttributeWithTarget
+filename: semantic_versioning.pdf
+Content-Type: application/pdf
+
+
+
+//--- FileSaver
+filename: semantic_versioning.pdf
+Content-Type: application/pdf
+
+//--- AncoreDownloadAttribute
+filename: semantic_versioning.pdf
+Content-Type: application/pdf
+
+//--- AncoreDownloadAttributeWithTarget
+filename: semantic_versioning.pdf
+Content-Type: application/pdf
+
+//--- AncoreDownloadAttributeWithTarget
+filename: semantic_versioning.pdf
+Content-Type: application/pdf
+
+//--- AncoreDownloadAttribute
+filename: semantic_versioning.pdf
+Content-Type: application/pdf
+
+//--- FileSaver
+filename: semantic_versioning.pdf
+Content-Type: application/pdf
+
