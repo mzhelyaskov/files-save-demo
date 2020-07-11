@@ -1,0 +1,26 @@
+{
+  "name": "files-save-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/izheliaskova/files-save-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/izheliaskova/files-save-demo/issues"
+  },
+  "homepage": "https://github.com/izheliaskova/files-save-demo#readme",
+  "devDependencies": {
+    "grunt": "^1.2.1",
+    "grunt-contrib-clean": "^2.0.0",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-exec": "^3.0.0"
+  }
+}

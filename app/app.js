@@ -8,6 +8,7 @@ const app = express();
 const port = 3000;
 
 app.use(bodyParser.json());
+app.use(express.static('static'));
 
 app.get('/download', function (req, res) {
 	const file = `${__dirname}/documents/semantic_versioning.pdf`;
@@ -30,6 +31,10 @@ app.post('/log', function (req, res) {
 		}
 		res.status(200).json({message: "File successfully written"});
 	});
+});
+
+app.get('*', function (req, res, error) {
+	res.send('index.html');
 });
 
 app.listen(port, () => console.log(`Example app listening at http://localhost:${port}`))
